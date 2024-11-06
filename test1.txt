@@ -1,6 +1,8 @@
 I was born in 1993. 
 I passed my SSC in the year 2008. 
 GIT PUSH Change-01
+
+I passed my HSc in the year 2010.
 GIT PUSH Change-02
 GIT PUSH Change-03
 GIT PUSH Change-04

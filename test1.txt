@@ -8,4 +8,4 @@ GIT PUSH Change-03
 GIT PUSH Change-04
 
 Feature change 02
-
+Logo alignment centered. 
